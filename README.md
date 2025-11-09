@@ -1,1 +1,3 @@
-# IKAI
+# Gameplay
+
+Boucles et interactions.
