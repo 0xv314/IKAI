@@ -48,11 +48,20 @@ Afin d'éviter toute perte , IKAI innove en envoyant de maniére sécurisé par 
 
 Une fois connecté, le joueur personnalise son avatar :
 
-* **Genre** : Options inclusives (Homme, Femme, Neutre), influençant l'apparence visuelle de l'avatar 3D (développé avec Unity pour des phases avancées) et du NFT Personnage associé.
+* **Genre** : Options inclusives (Homme, Femme, androgenre), influençant l'apparence visuelle de l'avatar 3D (développé avec Unity pour des phases avancées) et du NFT Personnage associé.
+* Par défaut il y a donc 3 visuels , sur lesquel on rajoute les équipements et skin visuel .
 
 
 
-L'avatar sert de base à l'identité du joueur dans l'univers, évoluant avec les progrès et les NFT acquis.
+L'avatar sert de base à l'identité du joueur dans l'univers, évoluant avec les progrès et les NFT acquis.Il est unique , non transferable , non vendable .
+
+#### 3.bis Choix du Personnage PARTENARIAT&#x20;
+
+Dans le cadre d'un partenariat , avec x collection , le NFT de la dite collection sera burn pour recevoir en échange un nouveau NFT , transferable et donc revendable sur les marketplace .
+
+Etant donner que le joueur echange son nft d'une collection d'une certaine valeur , il pourra recevoir directement , et gratuitement le coffre de commencement qui determinera son rang et son role .
+
+Par exemple , dans le cadre d'un partenariat avec la collection "dog" , le joueur pourra burn son nft et recevoir un "dog ikai " directement sur le site web , via la connexion du wallet et la detextion de celui ci , et lors de la connexion de son wallet sur mobile , passera toute les étapes d'achat , arrivant sur le lobby directement avec son personnage .
 
 #### 4. Packs d'Entrée (Starter Packs)
 
