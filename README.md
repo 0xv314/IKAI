@@ -1,1 +1,3 @@
-# IKAI
+# Whitepaper
+
+Aperçu complet.
