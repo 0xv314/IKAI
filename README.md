@@ -1,1 +1,3 @@
-# IKAI
+# Économie
+
+Structure et flux.

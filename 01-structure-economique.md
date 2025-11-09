@@ -1,0 +1,1 @@
+# Structure Économique Globale
