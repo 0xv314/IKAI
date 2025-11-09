@@ -67,28 +67,29 @@ Pour récompenser les communautés existantes, Ikai intègre des partenariats NF
 
 Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui définit le niveau initial de ressources et de potentiel. Ces packs sont achetés en SOL et incluent des éléments NFT probabilistes pour ajouter de l'excitation :
 
-| Pack                       | Prix (SOL) | Probabilités de Rang                 | Contenu Principal                                                                         |
-| -------------------------- | ---------- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
-| **Pack 1 (Débutant)**      | 0.5        | 95% Rang G à D ; SSS possible (rare) | NFT Personnage de base, objets essentiels (armes, skins), crédits initiaux pour missions. |
-| **Pack 2 (Intermédiaire)** | 2          | 95% Rang D à B ; SSS possible (rare) | Bonus stats permanents, objets avancés, familiers de base.                                |
-| **Pack 3 (Avancé)**        | 3          | 95% Rang C à A ; SSS possible (rare) | Bonus stats élevés, skins exclusifs, items rares et crédits supplémentaires.              |
+| Pack                       | Prix (SOL) | Probabilités de Rang                 | Contenu Principal                                                                               |
+| -------------------------- | ---------- | ------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Pack 1 (Débutant)**      | 0.5        | 95% Rang G à E ; SSS possible (rare) | NFT Personnage de base, objets essentiels (armes, skins), crédits initiaux pour missions.       |
+| **Pack 2 (Intermédiaire)** | 2          | 95% Rang D à B ; SSS possible (rare) | Idem pack 1 + objets avancés, possible familiers de base.                                       |
+| **Pack 3 (Avancé)**        | 3          | 95% Rang C à A ; SSS possible (rare) | Item pack 1 et 2 + Bonus stats élevés, skins exclusifs, items rares et crédits supplémentaires. |
 
 **Contenu Commun à Tous les Packs :**
 
 * Un **NFT Personnage** évolutif et non transférable, lié à l'âme du compte pour éviter la spéculation abusive.
 * Des **Objets NFT** (armes, skins, familiers) transférables sur le marketplace.
-* Des **Crédits Initiaux** pour accélérer la progression.
-* Des **Bonus de Rang** influençant les mécaniques de jeu dès le départ.
+* Des **Crédits Initiaux** pour accélérer la progression (piéce bronze à or aléatoirement ) .
+
+
 
 #### 5. Attribution du Rang
 
 Le rang est déterminé aléatoirement lors de l'ouverture du pack, avec des probabilités pondérées pour équilibrer rareté et accessibilité. Il impacte profondément la progression :
 
-| Rang              | Rareté                  | Animation d'Ouverture                            | Impacts sur le Jeu                                                 |
-| ----------------- | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
-| **SSS / SS / S**  | Extrêmement Rare (1-5%) | Spectacles pyrotechniques, effets holographiques | Boosts majeurs (x2 XP, loot rare +50%, coûts réduits de 30%).      |
-| **A / B / C**     | Rare (10-20%)           | Animations colorées, éclats lumineux             | Boosts moyens (x1.5 XP, loot amélioré +20%, coûts réduits de 15%). |
-| **D / E / F / G** | Commun (75%)            | Effets minimaux ou absents                       | Progression standard, sans malus.                                  |
+| Rang              | Rareté                  | Animation d'Ouverture                            | Impacts sur le Jeu                |
+| ----------------- | ----------------------- | ------------------------------------------------ | --------------------------------- |
+| **SSS / SS / S**  | Extrêmement Rare (1-5%) | Spectacles pyrotechniques, effets holographiques |                                   |
+| **A / B / C**     | Rare (10-20%)           | Animations colorées, éclats lumineux             |                                   |
+| **D / E / F / G** | Commun (75%)            | Effets minimaux ou absents                       | Progression standard, sans malus. |
 
 Des rangs **Divins** (ultra-rares) sont réservés à des achats spéciaux ou événements limités, offrant des avantages exclusifs comme des accès VIP à des zones cachées.
 
