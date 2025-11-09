@@ -55,13 +55,13 @@ Une fois connecté, le joueur personnalise son avatar :
 
 L'avatar sert de base à l'identité du joueur dans l'univers, évoluant avec les progrès et les NFT acquis.Il est unique , non transferable , non vendable .
 
-#### 3.bis Choix du Personnage PARTENARIAT&#x20;
+#### 3.1 Choix du Personnage pack partenariat&#x20;
 
-Dans le cadre d'un partenariat , avec x collection , le NFT de la dite collection sera burn pour recevoir en échange un nouveau NFT , transferable et donc revendable sur les marketplace .
+Pour récompenser les communautés existantes, Ikai intègre des partenariats NFT :
 
-Etant donner que le joueur echange son nft d'une collection d'une certaine valeur , il pourra recevoir directement , et gratuitement le coffre de commencement qui determinera son rang et son role .
-
-Par exemple , dans le cadre d'un partenariat avec la collection "dog" , le joueur pourra burn son nft et recevoir un "dog ikai " directement sur le site web , via la connexion du wallet et la detextion de celui ci , et lors de la connexion de son wallet sur mobile , passera toute les étapes d'achat , arrivant sur le lobby directement avec son personnage .
+* Si un utilisateur possède un NFT d'une collection partenaire (vérifié via blockchain), il peut le "burner" (détruire) pour obtenir un **NFT IKAI Partenaire** personnalisé.
+* Ce NFT inclut un visuel unique, une classe thématique et un rang bonus.
+* Contrairement aux personnages initiaux, ces NFT partenaires sont **transférables**, favorisant un marché secondaire dynamique et des collaborations inter-projets.
 
 #### 4. Packs d'Entrée (Starter Packs)
 
@@ -79,14 +79,6 @@ Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui déf
 * Des **Objets NFT** (armes, skins, familiers) transférables sur le marketplace.
 * Des **Crédits Initiaux** pour accélérer la progression.
 * Des **Bonus de Rang** influençant les mécaniques de jeu dès le départ.
-
-**4.1. Packs Partenariats**
-
-Pour récompenser les communautés existantes, Ikai intègre des partenariats NFT :
-
-* Si un utilisateur possède un NFT d'une collection partenaire (vérifié via blockchain), il peut le "burner" (détruire) pour obtenir un **NFT IKAI Partenaire** personnalisé.
-* Ce NFT inclut un visuel unique, une classe thématique et un rang bonus.
-* Contrairement aux personnages initiaux, ces NFT partenaires sont **transférables**, favorisant un marché secondaire dynamique et des collaborations inter-projets.
 
 #### 5. Attribution du Rang
 
