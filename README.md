@@ -1,3 +1,3 @@
-# Progression & Identité
+# Readme.Md
 
-Évolution du joueur.
+La progression n’est pas cosmétique — elle est structurelle.
