@@ -1,1 +1,3 @@
-# IKAI
+# Progression & Identité
+
+Évolution du joueur.
