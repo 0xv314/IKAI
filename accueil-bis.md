@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Accueil bis
 
 Voici une version plus nette, cohérente et “copiable-collable” pour **la page d’accueil (Home)**. J’ai gardé tout ce que tu voulais, en resserrant la formulation, en évitant les doublons, et en rendant la lecture plus fluide.

@@ -8,7 +8,7 @@ icon: house-circle-exclamation
 
 **Ikai** est une application mobile innovante intégrant la technologie Web3 sur la blockchain **Solana**. Elle fusionne l'exploration du monde réel avec des éléments de RPG (Role-Playing Game), des classes interconnectées et une économie décentralisée. Les joueurs se déplacent physiquement, interagissent avec leur environnement, accomplissent des missions et participent à des combats, ce qui leur permet de progresser, d'acquérir des ressources, des objets, des familiers et des tokens.
 
-Au cœur d'Ikai se trouve le concept de **Live-to-Earn (L2E)** :
+Au cœur d'Ikai se trouve le concept innovateur et jamais créer de **Live-to-Earn (L2E)** :
 
 > **Vivre, jouer et se déplacer dans le monde réel génère de la valeur tangible, transformant les activités quotidiennes en opportunités économiques durables.**
 
@@ -25,7 +25,7 @@ Ikai est conçu pour une onboarding intuitive, accessible à tous les niveaux d'
 L'expérience commence par un écran d'accueil dynamique et engageant :
 
 * Une **barre d'énergie arc-en-ciel** avec un effet néon animé, symbolisant l'énergie vitale du jeu et invitant à l'exploration.
-* Le logo emblématique du **Slime**, mascotte ludique de l'univers Ikai, qui s'anime pour accueillir le joueur.
+* Le logo emblématique du **Slime**, mascotte ludique de l'univers Ikai,mais surtout des univers "isekai" dans les anime japonais,  qui s'anime pour accueillir le joueur.
 * Un chargement rapide de l'environnement, incluant une vérification automatique de la connexion blockchain pour assurer une intégration fluide avec Solana.
 
 Cet écran ne dure que quelques secondes, optimisé pour les connexions mobiles, et prépare le terrain pour une immersion immédiate.
@@ -42,12 +42,15 @@ Ikai offre une flexibilité maximale pour l'accès, en combinant des méthodes t
 
 Si l'utilisateur n'a pas de wallet Solana, un assistant intégré guide la création ou l'importation d'un wallet en moins d'une minute, en expliquant les bases de la sécurité (phrases de récupération, etc.). Tous les comptes, même ceux créés via email ou téléphone, sont conçus pour être évolutifs : ils peuvent être liés à un wallet Solana à tout moment, transformant un compte "classique" en un compte Web3 pleinement fonctionnel. Cela assure une transition progressive vers l'économie décentralisée sans barrières d'entrée.
 
+Afin d'éviter toute perte , IKAI innove en envoyant de maniére sécurisé par email la phrase secréte à l'utilisateur , crypté , qui lui permet en cas de perte du mobile de retrouver l'accés à son compte utilisateur .Pourquoi ? Car les utilisateurs en régle général passe cette étape avec une capture d'écran , ou un bout de papier et se retrouve dos au mur en cas de panne du mobile ou de perte .
+
 #### 3. Choix du Personnage
 
 Une fois connecté, le joueur personnalise son avatar :
 
 * **Genre** : Options inclusives (Homme, Femme, Neutre), influençant l'apparence visuelle de l'avatar 3D (développé avec Unity pour des phases avancées) et du NFT Personnage associé.
-* Cette personnalisation est gratuite et réversible dans les premières heures de jeu, favorisant l'expérimentation.
+
+
 
 L'avatar sert de base à l'identité du joueur dans l'univers, évoluant avec les progrès et les NFT acquis.
 
