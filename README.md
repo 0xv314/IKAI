@@ -94,11 +94,11 @@ Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui déf
 
 Le rang est déterminé aléatoirement lors de l'ouverture du pack, avec des probabilités pondérées pour équilibrer rareté et accessibilité. Il impacte profondément la progression :
 
-| Rang              | Rareté                  | Animation d'Ouverture                            | Impacts sur le Jeu |
-| ----------------- | ----------------------- | ------------------------------------------------ | ------------------ |
-| **SSS / SS / S**  | Extrêmement Rare (1-5%) | Spectacles pyrotechniques, effets holographiques |                    |
-| **A / B / C**     | Rare (10-20%)           | Animations colorées, éclats lumineux             |                    |
-| **D / E / F / G** | Commun (75%)            | Effets minimaux ou absents                       |                    |
+| Rang              | Rareté            | Animation d'Ouverture                            | Impacts sur le Jeu |
+| ----------------- | ----------------- | ------------------------------------------------ | ------------------ |
+| **SSS / SS / S**  | Extrêmement Rare  | Spectacles pyrotechniques, effets holographiques |                    |
+| **A / B / C**     | Rare              | Animations colorées, éclats lumineux             |                    |
+| **D / E / F / G** | Commun            | Effets minimaux ou absents                       |                    |
 
 Des rangs **Divins** ( au total de 12 principaux et ensuite de demi divin  ) sont réservés à des achats spéciaux ou événements limités .
 
@@ -138,10 +138,12 @@ Le hub central offre un accès rapide à cinq sections clés :
 
 La carte posséde elle même ses propre onglets , propre à l'exploration.
 
-* **Inventaire** : Gestion des NFT et ressources.
-* **Wallet :** Gestion du porte monaie&#x20;
+* **Inventaire** : Gestion des NFT et ressources (Famillier , monnaie , skin ect ) .
+* **Wallet :** Gestion du porte monaie et stacking&#x20;
 * **Marché** : Marketplace intégré du jeu + marketplace des items joueurs ( récupération des items en vente sur magic eden et affichage de tout les items listé ou non )&#x20;
 * **Profil** : Statistiques, avatar et guildes.
+
+
 
 Des notifications push alertent sur les événements en temps réel, comme l'apparition d'un donjon proche.
 
@@ -152,8 +154,8 @@ Utilisant **Mapbox** et **OpenStreetMap** pour une précision optimale :
 * Affichage de la position réelle du joueur via GPS.
 * Visualisation des autres joueurs (filtrée par guildes ou amis pour la confidentialité).
 * **Zones Spéciales :**
-  * **Loot Spots** : Points de collecte aléatoires basés sur la localisation.
-  * **Quêtes IRL** : Missions liées à des lieux réels (ex. : visiter un parc pour une quête écologique).
+  * **Loot Spots** : Points de collecte aléatoires qui n'est pas basés sur la localisation mais un algorithme aléatoire. Le même spot est visible de tous .
+  * **Quêtes IRL** : Missions liées à des lieux réels (ex. : visiter un endroit pour une quête ).
   * **Donjons** : Événements temporaires avec combats.
   * **Bases de Guildes** : Territoires contrôlés par des groupes.
   * **Événements Saisonniers** : Festivals virtuels ancrés dans des calendriers réels.
