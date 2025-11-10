@@ -108,11 +108,11 @@ Attention ! Plus un rang est élever , plus le coût d'upgrade l'est également 
 
 #### 6. Choix de la Classe
 
-Ikai propose 12 classes principales, chacune ancrée dans une fonction économique pour promouvoir l'interdépendance :
+Ikai propose 12 classes principales, chacune ancrée dans une fonction économique pour promouvoir l'interdépendance   :
 
 * **Exemples de Classes :**
   * **Invocateur** : Spécialisé dans la création de familiers NFT, vendables sur le marketplace.
-  * **Agriculteur** : Récolte des ressources rares via exploration IRL, essentielles pour le crafting.
+  * **Agriculteur** : Récolte des ressources rares via exploration IRL , essentielles pour le crafting.
   * **Guerrier** : Orienté combats et donjons, avec des sous-classes comme Ninja (agilité), Paladin (défense) ou Berserker (force brute).
   * **Marchand** : Bonus sur les échanges, taxation réduite et insights économiques.
 
@@ -156,7 +156,7 @@ Utilisant **Mapbox** et **OpenStreetMap** pour une précision optimale :
 * **Zones Spéciales :**
   * **Loot Spots** : Points de collecte aléatoires qui n'est pas basés sur la localisation mais un algorithme aléatoire. Le même spot est visible de tous .
   * **Quêtes IRL** : Missions liées à des lieux réels (ex. : visiter un endroit pour une quête ).
-  * **Donjons** : Événements temporaires avec combats.
+  * **Donjons**  IRL : Événements temporaires avec combats.
   * **Bases de Guildes** : Territoires contrôlés par des groupes.
   * **Événements Saisonniers** : Festivals virtuels ancrés dans des calendriers réels.
 
@@ -168,14 +168,15 @@ Ikai transforme le monde en un MMORPG géolocalisé, inspiré de Pokémon GO mai
 
 La boucle de jeu est conçue pour être addictive et équilibrée, récompensant l'activité physique et la stratégie.
 
-| Élément Clé               | Description Détailée                                                                                       |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Rang**                  | Détermine les multiplicateurs de gains, coûts de crafting et rareté des loots. Évolutif via événements.    |
-| **Classe & Sous-Classe**  | Définit le rôle économique ; évolution nécessite des ressources interclasses pour encourager les échanges. |
-| **XP (Expérience)**       | Gagnée par déplacements (marche/course), missions et combats ; seuils pour niveaux et évolutions.          |
-| **Objets**                | Lootables en exploration, craftables via ressources ; catégories : consommables, équipements, décoratifs.  |
-| **NFTs**                  | Armes, familiers, skins ; évolutifs et transférables ; terrains ajoutés dans phases futures.               |
-| **Token Interne : $IKAI** | Utility token pour achats in-game, staking et gouvernance ; brûlé pour équilibrer l'offre.                 |
+| Élément Clé                          | Description Détailée                                                                                                                                                                                   |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Rang**                             | Détermine les multiplicateurs de gains, coûts de crafting et rareté des loots.                                                                                                                         |
+| **Classe & Sous-Classe**             | Définit le rôle économique ; évolution nécessite des ressources interclasses pour encourager les échanges.                                                                                             |
+| **XP (Expérience)**                  | Gagnée par déplacements (marche/course), missions et combats ; seuils pour niveaux et évolutions.                                                                                                      |
+| **Objets**                           | Lootables en exploration, craftables via ressources ; catégories : consommables, équipements, décoratifs.                                                                                              |
+| **NFTs**                             | Armes, familiers, skins ; évolutifs et transférables ; terrains ajoutés dans phases futures.                                                                                                           |
+| **Token stable Interne : $IKAI**     | Utility token pour achats in-game, staking et gouvernance ; brûlé pour équilibrer l'offre.                                                                                                             |
+| **Token stacking Interne : $xIKAI**  | Token inflasionniste , à raison de 1/1 au lancement du stacking ,mais deviendra plus important au fil du temps , le premier token d'un jeu non tradable sur les exanges , uniquement pour les joueurs  |
 
 La progression est non linéaire, avec des branches basées sur les choix du joueur.
 
