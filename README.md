@@ -264,13 +264,20 @@ Exemple : Volume de 12 000 $ → 180 $ au propriétaire.
 
 **3.2. Taxe Locale (0-30%)**
 
-Taux défini par propriétaire ; appliqué aux gains (XP, loots) des joueurs locaux. Exemple : 20% sur 100 XP → Joueur reçoit 80 ; propriétaire 20. Stratégie clé : Équilibre pour attirer/retenir joueurs.
+Activation via le royaume , voir étape 4 .
+
+Les joueurs verront un icone qui indique une taxe en cours sur leurs comptes , UNIQUEMENT pour les run .&#x20;
+
+La taxe sera de 1 à 30% selon le royaume .
+
+Celà n'impacte pas le reste de leurs jeux .
 
 #### 4. Création d'un Royaume (Activation du Château)
 
-Staking de SOL (1-100 SOL basé sur taille) pour upgrader :
+Staking de SOL (1-100 SOL basé sur la taxe voulu et la population global de la ville ) pour upgrader :
 
-* Avantages : Défense +20%, gains +10%.
+* Avantages : consomation des run automatique , passif&#x20;
+* Avantage : gain de coffres journaliers&#x20;
 * Risques : Perte du stake en cas de conquête.
 * Visuels : Château 3D AR, ambiance royale.
 
@@ -289,7 +296,7 @@ Promot l'alliance et la stratégie.
 | Rôle                      | Avantages                 | Risques                 |
 | ------------------------- | ------------------------- | ----------------------- |
 | **Propriétaire de Ville** | Revenus passifs, contrôle | Attaques potentielles   |
-| **Roi (Royaume Activé)**  | Prestige, gains élevés    | Perte de stake          |
+| **Roi (Royaume Activé)**  | Prestige, gains élevés    | Perte                   |
 | **Joueur Libre**          | Mobilité                  | Taxation subie          |
 | **Conquérant**            | Gains territoriaux        | Investissements risqués |
 
