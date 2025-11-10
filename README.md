@@ -60,10 +60,10 @@ L'avatar sert de base à l'identité du joueur dans l'univers, évoluant avec le
 Pour récompenser les communautés existantes, Ikai intègre des partenariats NFT :
 
 * Si un utilisateur possède un NFT d'une collection partenaire (vérifié via blockchain), il peut le "burner" (envoi sur un wallet dédié) pour obtenir un **NFT IKAI Partenaire** personnalisé.
-* Ce NFT inclut un visuel unique, une classe thématique et un rang bonus.
+* Ce NFT inclut un visuel unique.
 * Contrairement aux personnages initiaux, ces NFT partenaires sont **transférables**, favorisant un marché secondaire dynamique et des collaborations inter-projets.
 * Le joueur peut burn plusieurs NFT afin d'obtenir directement un NFT plus puissant .
-* Selon le NFT ou le nombre de NFT burn  le joueur obtiens son starter pack parmis plusieurs rareté  gratuitement , par exemple pour la collection "dog" 1 NFT donnera egalement le pack de base ( 0.5 sol ) , mais dans le cas d'un burn de&#x20;
+* Selon le NFT ou le nombre de NFT burn  le joueur obtiens son starter pack parmis plusieurs rareté  gratuitement , par exemple pour la collection "dog" 1 NFT donnera egalement le pack de base ( 0.5 sol ) , mais dans le cas d'un burn de 8 NFT il obtiendra directement le pack 3 sans avoir besoins d'avancer le moindre solana , juste les frais de la transaction .&#x20;
 
 
 
@@ -74,7 +74,7 @@ Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui déf
 **Contenu Commun à Tous les Packs :**
 
 * Un **NFT Personnage** évolutif et non transférable, lié à l'âme du compte pour éviter la spéculation abusive.
-* Des **Objets NFT** (armes, skins, familiers) transférables sur le marketplace.
+* Des **Objets NFT** (armes, skins, familiers) de rang aléatoire , transférables sur le marketplace.
 * Des **Crédits Initiaux** pour accélérer la progression (piéce bronze à or aléatoirement ) .
 
 | Pack                       | Prix (SOL) | Probabilités de Rang                                                                                                                                                                                                                  | Contenu Principal                               |
