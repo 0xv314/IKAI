@@ -258,7 +258,7 @@ Chaque NFT est unique :
 
 **3.1. Part Marketplace (1.5%)**
 
-1.5% des transactions marketplace de joueurs dans la ville, versé en $IKAI/SOL via oracles géographiques.
+1.5% des transactions marketplace de joueurs dans la ville, versé en $SOL via oracles géographiques.
 
 Exemple : Volume de 12 000 $ → 180 $ au propriétaire.
 
@@ -274,11 +274,11 @@ Celà n'impacte pas le reste de leurs jeux .
 
 #### 4. Création d'un Royaume (Activation du Château)
 
-Staking de SOL (1-100 SOL basé sur la taxe voulu et la population global de la ville ) pour upgrader :
+Le royaume ne peut être créer que si vous posséder une ville .Aucune limite de création de royaume , 1 par villes en simultanée possible .Staking de SOL (1-100 SOL basé sur la taxe voulu et selon la population global de la ville  Paris n'aura pas les mêmes conditions que Chateauroux ):
 
 * Avantages : consomation des run automatique , passif&#x20;
 * Avantage : gain de coffres journaliers&#x20;
-* Risques : Perte du stake en cas de conquête.
+* Risques : Perte du stake en cas de conquête d'un autre joueur .
 * Visuels : Château 3D AR, ambiance royale.
 
 #### 5. Guerre et Conquête des Royaumes
