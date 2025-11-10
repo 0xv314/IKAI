@@ -190,11 +190,13 @@ Ikai évolue en phases pour scaler progressivement.
 
 Les déplacements réels (suivis via GPS) débloquent des zones, loots et rencontres. Des anti-triche (ex. : vitesse max pour éviter les véhicules) assurent l'équité.
 
+Les moyens de locomotion léger sont autorisé ( trotinette , vélo ect ) .
+
 #### Système d'Énergie
 
 * De 1 à **3 barres** initiales, évolutives via upgrades ou achats.
-* Limite la durée des sessions (ex. : 1 barre = 30 min d'exploration active).
-* Recharge : Quotidienne (naturelle), via objets ou staking de $IKAI.
+* 1 barre peut obtenir au maximum 8H d'énergie , soit 24H d'énergie au maximum .&#x20;
+* Recharge : Quotidienne à 13H UTC .
 
 #### Missions et Donjons
 
@@ -204,7 +206,7 @@ Les déplacements réels (suivis via GPS) débloquent des zones, loots et rencon
 #### Marketplace
 
 * Intégré avec support pour Magic Eden, OpenSea ; achats in-app sans quitter l'application.
-* Frais minimes (1-2%) redistribués à l'écosystème.
+* Frais 6% ,  pour contribué à l'écosystème.
 
 ***
 
@@ -213,10 +215,11 @@ Les déplacements réels (suivis via GPS) débloquent des zones, loots et rencon
 Ikai repose sur une économie équilibrée et anti-spéculative :
 
 * **$IKAI** : Token utility sur Solana ; utilités : achats, staking pour boosts, brûlage pour upgrades.
+* $xIKAI : Token de stacking inflasionniste posséder uniquement par les joueurs , non tradable en externe , garantie de valeur peu importe le marché ( crash , ect ) , ce token est continuellement racheter par la team avec les frais , et pour chaque sortie de stacking un délai de x jours sera automatisé pour éviter toute cascade negative .
 * **NFTs Évolutifs** : Valeur accrue par usage in-game.
 * **Économie Circulaire** : Interdépendance des classes empêche l'autarcie ; activité réelle génère valeur.
 
-Allocation initiale : 40% communauté, 20% équipe (vested), 20% liquidity, 10% marketing, 10% réserves. Pas de pump-and-dump ; focus sur l'utilité long-terme.
+Allocation initiale : 100% détenue par la communauté , 0 vente privée , 0 lancement plateforme .
 
 ***
 
