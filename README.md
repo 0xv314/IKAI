@@ -59,19 +59,26 @@ L'avatar sert de base à l'identité du joueur dans l'univers, évoluant avec le
 
 Pour récompenser les communautés existantes, Ikai intègre des partenariats NFT :
 
-* Si un utilisateur possède un NFT d'une collection partenaire (vérifié via blockchain), il peut le "burner" (détruire) pour obtenir un **NFT IKAI Partenaire** personnalisé.
+* Si un utilisateur possède un NFT d'une collection partenaire (vérifié via blockchain), il peut le "burner" (envoi sur un wallet dédié) pour obtenir un **NFT IKAI Partenaire** personnalisé.
 * Ce NFT inclut un visuel unique, une classe thématique et un rang bonus.
 * Contrairement aux personnages initiaux, ces NFT partenaires sont **transférables**, favorisant un marché secondaire dynamique et des collaborations inter-projets.
+* Le joueur peut burn plusieurs NFT afin d'obtenir directement un NFT plus puissant .
+* Selon le NFT ou le nombre de NFT burn  le joueur obtiens son starter pack parmis plusieurs rareté  gratuitement , par exemple pour la collection "dog" 1 NFT donnera egalement le pack de base ( 0.5 sol ) , mais dans le cas d'un burn de&#x20;
 
-#### 4. Packs d'Entrée (Starter Packs)
+
+
+**4. Packs d'Entrée (Starter Packs)**
 
 Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui définit le niveau initial de ressources et de potentiel. Ces packs sont achetés en SOL et incluent des éléments NFT probabilistes pour ajouter de l'excitation :
 
 | Pack                       | Prix (SOL) | Probabilités de Rang                 | Contenu Principal                                                                               |
 | -------------------------- | ---------- | ------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Pack 1 (Débutant)**      | 0.5        | 95% Rang G à E ; SSS possible (rare) | NFT Personnage de base, objets essentiels (armes, skins), crédits initiaux pour missions.       |
+| **Pack 1 (Débutant)**      | 1          | 95% Rang G à E ; SSS possible (rare) | NFT Personnage de base, objets essentiels (armes, skins), crédits initiaux pour missions.       |
 | **Pack 2 (Intermédiaire)** | 2          | 95% Rang D à B ; SSS possible (rare) | Idem pack 1 + objets avancés, possible familiers de base.                                       |
-| **Pack 3 (Avancé)**        | 3          | 95% Rang C à A ; SSS possible (rare) | Item pack 1 et 2 + Bonus stats élevés, skins exclusifs, items rares et crédits supplémentaires. |
+| **Pack 3 (Avancé)**        | 4          | 95% Rang C à A ; SSS possible (rare) | Item pack 1 et 2 + Bonus stats élevés, skins exclusifs, items rares et crédits supplémentaires. |
+| **Pack 4 (Avancé)**        | 8          |                                      |                                                                                                 |
+| **Pack 5 (Avancé)**        | 16         |                                      |                                                                                                 |
+| **Pack 6 (Avancé)**        | 32         |                                      |                                                                                                 |
 
 **Contenu Commun à Tous les Packs :**
 
