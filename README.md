@@ -71,14 +71,14 @@ Pour récompenser les communautés existantes, Ikai intègre des partenariats NF
 
 Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui définit le niveau initial de ressources et de potentiel. Ces packs sont achetés en SOL et incluent des éléments NFT probabilistes pour ajouter de l'excitation :
 
-| Pack                       | Prix (SOL) | Probabilités de Rang                 | Contenu Principal                                                                               |
-| -------------------------- | ---------- | ------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Pack 1 (Débutant)**      | 1          | 95% Rang G à E ; SSS possible (rare) | NFT Personnage de base, objets essentiels (armes, skins), crédits initiaux pour missions.       |
-| **Pack 2 (Intermédiaire)** | 2          | 95% Rang D à B ; SSS possible (rare) | Idem pack 1 + objets avancés, possible familiers de base.                                       |
-| **Pack 3 (Avancé)**        | 4          | 95% Rang C à A ; SSS possible (rare) | Item pack 1 et 2 + Bonus stats élevés, skins exclusifs, items rares et crédits supplémentaires. |
-| **Pack 4 (Avancé)**        | 8          |                                      |                                                                                                 |
-| **Pack 5 (Avancé)**        | 16         |                                      |                                                                                                 |
-| **Pack 6 (Avancé)**        | 32         |                                      |                                                                                                 |
+| Pack                       | Prix (SOL) | Probabilités de Rang                                                                                                                                    | Contenu Principal                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| **Pack 1 (Débutant)**      | 1          | <p>Rang G</p><p>Rang F</p><p>Rang E</p><p>Rang D</p><p>Rang C</p><p>Rang B</p><p>Rang A</p><p>Rang S</p><p>Rang SS</p><p>Rang SSS</p><p>Rang Divin </p> |                                                 |
+| **Pack 2 (Intermédiaire)** | 2          | <p>Rang G</p><p>Rang F</p><p>Rang E</p><p>Rang D</p><p>Rang C</p><p>Rang B</p><p>Rang A</p><p>Rang S</p><p>Rang SS</p><p>Rang SSS</p><p>Rang Divin </p> |                                                 |
+| **Pack 3 (Avancé)**        | 4          | <p>Rang G</p><p>Rang F</p><p>Rang E</p><p>Rang D</p><p>Rang C</p><p>Rang B</p><p>Rang A</p><p>Rang S</p><p>Rang SS</p><p>Rang SSS</p><p>Rang Divin </p> |                                                 |
+| **Pack 4 (Avancé)**        | 8          | <p>Rang G</p><p>Rang F</p><p>Rang E</p><p>Rang D</p><p>Rang C</p><p>Rang B</p><p>Rang A</p><p>Rang S</p><p>Rang SS</p><p>Rang SSS</p><p>Rang Divin </p> |                                                 |
+| **Pack 5 (Avancé)**        | 16         | <p>Rang G</p><p>Rang F</p><p>Rang E</p><p>Rang D</p><p>Rang C</p><p>Rang B</p><p>Rang A</p><p>Rang S</p><p>Rang SS</p><p>Rang SSS</p><p>Rang Divin </p> |                                                 |
+| **Pack 6 (Avancé)**        | 32         | <p>Rang G</p><p>Rang F</p><p>Rang E</p><p>Rang D</p><p>Rang C</p><p>Rang B</p><p>Rang A</p><p>Rang S</p><p>Rang SS</p><p>Rang SSS</p><p>Rang Divin </p> | Pack RWA aléatoire parmis les 150 pays initial  |
 
 **Contenu Commun à Tous les Packs :**
 
