@@ -69,7 +69,13 @@ Pour récompenser les communautés existantes, Ikai intègre des partenariats NF
 
 **4. Packs d'Entrée (Starter Packs)**
 
-Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui définit le niveau initial de ressources et de potentiel. Ces packs sont achetés en SOL et incluent des éléments NFT probabilistes pour ajouter de l'excitation :
+Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui définit le niveau initial de ressources et de potentiel. Ces packs sont achetés en SOL et incluent des éléments NFT probabilistes pour ajouter de l'excitation .
+
+**Contenu Commun à Tous les Packs :**
+
+* Un **NFT Personnage** évolutif et non transférable, lié à l'âme du compte pour éviter la spéculation abusive.
+* Des **Objets NFT** (armes, skins, familiers) transférables sur le marketplace.
+* Des **Crédits Initiaux** pour accélérer la progression (piéce bronze à or aléatoirement ) .
 
 | Pack                       | Prix (SOL) | Probabilités de Rang                                                                                                                                                                                                                  | Contenu Principal                               |
 | -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -80,11 +86,7 @@ Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui déf
 | **Pack 5 (Avancé)**        | 16         | <p>60% drop</p><p>Rang B</p><p>30% drop</p><p>Rang A</p><p>5% drop</p><p>Rang S</p><p>3% drop</p><p>Rang SS</p><p>2% drop</p><p>Rang SSS </p>                                                                                         |                                                 |
 | **Pack 6 (Avancé)**        | 32         | <p>50%</p><p>Rang A</p><p>30% drop</p><p>Rang S</p><p>20% drop</p><p>Rang SS</p><p>10% drop</p><p>Rang SSS</p>                                                                                                                        | Pack RWA aléatoire parmis les 150 pays initial  |
 
-**Contenu Commun à Tous les Packs :**
 
-* Un **NFT Personnage** évolutif et non transférable, lié à l'âme du compte pour éviter la spéculation abusive.
-* Des **Objets NFT** (armes, skins, familiers) transférables sur le marketplace.
-* Des **Crédits Initiaux** pour accélérer la progression (piéce bronze à or aléatoirement ) .
 
 
 
@@ -92,13 +94,17 @@ Pour plonger dans l'aventure, le joueur sélectionne un pack d'entrée, qui déf
 
 Le rang est déterminé aléatoirement lors de l'ouverture du pack, avec des probabilités pondérées pour équilibrer rareté et accessibilité. Il impacte profondément la progression :
 
-| Rang              | Rareté                  | Animation d'Ouverture                            | Impacts sur le Jeu                |
-| ----------------- | ----------------------- | ------------------------------------------------ | --------------------------------- |
-| **SSS / SS / S**  | Extrêmement Rare (1-5%) | Spectacles pyrotechniques, effets holographiques |                                   |
-| **A / B / C**     | Rare (10-20%)           | Animations colorées, éclats lumineux             |                                   |
-| **D / E / F / G** | Commun (75%)            | Effets minimaux ou absents                       | Progression standard, sans malus. |
+| Rang              | Rareté                  | Animation d'Ouverture                            | Impacts sur le Jeu |
+| ----------------- | ----------------------- | ------------------------------------------------ | ------------------ |
+| **SSS / SS / S**  | Extrêmement Rare (1-5%) | Spectacles pyrotechniques, effets holographiques |                    |
+| **A / B / C**     | Rare (10-20%)           | Animations colorées, éclats lumineux             |                    |
+| **D / E / F / G** | Commun (75%)            | Effets minimaux ou absents                       |                    |
 
-Des rangs **Divins** (ultra-rares) sont réservés à des achats spéciaux ou événements limités, offrant des avantages exclusifs comme des accès VIP à des zones cachées.
+Des rangs **Divins** ( au total de 12 principaux et ensuite de demi divin  ) sont réservés à des achats spéciaux ou événements limités .
+
+N'importe quel rang peut upgrade par la suite , via la mécanique "transcendance" .
+
+Attention ! Plus un rang est élever , plus le coût d'upgrade l'est également .
 
 #### 6. Choix de la Classe
 
@@ -129,9 +135,12 @@ L'interface d'Ikai est minimaliste et intuitive, optimisée pour mobile avec des
 Le hub central offre un accès rapide à cinq sections clés :
 
 * **Carte (Monde)** : Exploration géolocalisée.
+
+La carte posséde elle même ses propre onglets , propre à l'exploration.
+
 * **Inventaire** : Gestion des NFT et ressources.
-* **Missions** : Liste des quêtes actives.
-* **Marché** : Marketplace intégré.
+* **Wallet :** Gestion du porte monaie&#x20;
+* **Marché** : Marketplace intégré du jeu + marketplace des items joueurs ( récupération des items en vente sur magic eden et affichage de tout les items listé ou non )&#x20;
 * **Profil** : Statistiques, avatar et guildes.
 
 Des notifications push alertent sur les événements en temps réel, comme l'apparition d'un donjon proche.
