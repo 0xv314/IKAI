@@ -4,6 +4,7 @@
   * [Navigation App](01-navigation-app.md)
   * [Exploration Move & Discover](02-exploration-move-discover.md)
   * [Combats & Créatures](04-combats-et-creatures.md)
+  * [Slimes & Capture](readme/slimes-and-capture.md)
   * [Donjons & Instances](03-donjons-instances.md)
   * [Missions & Événements](05-missions-evenements.md)
   * [Familiers](readme/familiers.md)
