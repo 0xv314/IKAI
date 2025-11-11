@@ -9,6 +9,6 @@
 * [IDENTITÉ & PROGRESSION](identite-and-progression/README.md)
   * [Naissance & Identité du Personnage](identite-and-progression/naissance-and-identite-du-personnage.md)
   * [Classes & Économie](identite-and-progression/classes-and-economie.md)
-  * [Progression & Courbe de Densité](identite-and-progression/progression-and-courbe-de-densite.md)
+  * [Progression & Leveling](identite-and-progression/progression-and-leveling.md)
   * [Transcendance & Reliques](identite-and-progression/transcendance-and-reliques.md)
   * [Mariage & Descendance (Bébés PNJ)](identite-and-progression/mariage-and-descendance-bebes-pnj.md)
