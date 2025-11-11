@@ -10,3 +10,4 @@
   * [Classes, Double Classe & Triple Classe](identite-and-progression/classes-double-classe-and-triple-classe.md)
 * [Naissance & Identité du Personnage](naissance-and-identite-du-personnage.md)
 * [Progression & Courbe de Densité](progression-and-courbe-de-densite.md)
+* [Transcendance & Reliques](transcendance-and-reliques.md)
