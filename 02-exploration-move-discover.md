@@ -89,17 +89,3 @@ Certaines nécessitent :
 
 > L’exploration ne donne jamais du vide.\
 > Elle **nourrit** l’économie, la progression, la rareté et l’identité du joueur.
-
-***
-
-### ✅ Résumé des corrections intégrées
-
-| Élément                              | État        |
-| ------------------------------------ | ----------- |
-| Mana = énergie du jeu                | ✔ Added     |
-| Coûts Slimes en Mana                 | ✔ Added     |
-| Slimes non liés au niveau            | ✔ Corrected |
-| Slimes régionaux / biomes            | ✔ Added     |
-| Capture + Fusion                     | ✔ Added     |
-| Ressources non accessibles librement | ✔ Corrected |
-| Potions → pas de farm infini         | ✔ Clarified |
