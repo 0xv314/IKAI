@@ -11,3 +11,4 @@
 * [Naissance & Identité du Personnage](naissance-and-identite-du-personnage.md)
 * [Progression & Courbe de Densité](progression-and-courbe-de-densite.md)
 * [Transcendance & Reliques](transcendance-and-reliques.md)
+* [Mariage & Descendance (Bébés PNJ)](mariage-and-descendance-bebes-pnj.md)
