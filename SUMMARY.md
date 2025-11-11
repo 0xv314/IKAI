@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Gameplay](README.md)
 * [Navigation App](01-navigation-app.md)
@@ -6,3 +6,4 @@
 * [Donjons & Instances](03-donjons-instances.md)
 * [Combats & Créatures](04-combats-et-creatures.md)
 * [Missions & Événements](05-missions-evenements.md)
+* [Classes & Sous-classes](classes-and-sous-classes.md)
