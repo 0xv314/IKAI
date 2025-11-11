@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Économie](README.md)
-* [Structure Économique](01-structure-economique.md)
+* [Monnaies & $IKAI / xIKAI$](01-structure-economique.md)
 * [Monnaies & $IKAI / xIKAI$](02-currencies-and-ikais.md)
 * [Ressources & Raretés](03-ressources-and-rarities.md)
 * [Production → Transformation → Utilisation](04-production-transformation.md)
