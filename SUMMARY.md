@@ -5,6 +5,6 @@
 * [Introduction](01-introduction.md)
 * [Vision & Philosophie](02-vision-philosophie.md)
 * [Mécanique Live-to-Earn](03-structure-l2e.md)
-* [RWA – Territoires & Royaumes](04-rwa-overview.md)
+* [Résumé RWA (Territoires & Royaumes](04-rwa-overview.md)
 * [Résumé Économie & Tokenomics](06-economie-modele.md)
 * [Gouvernance](07-gouvernance.md)
