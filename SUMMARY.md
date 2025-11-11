@@ -1,6 +1,7 @@
-# Summary
+# Table of contents
 
-* [Whitepaper](README.md)
+* [IKAI ?](README.md)
+* [Whitepaper](<README (1).md>)
 * [Introduction](01-introduction.md)
 * [Vision & Philosophie](02-vision-philosophie.md)
 * [Structure Live‑to‑Earn](03-structure-l2e.md)
