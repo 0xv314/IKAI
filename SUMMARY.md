@@ -6,7 +6,7 @@
   * [Combats & Créatures](04-combats-et-creatures.md)
   * [Donjons & Instances](03-donjons-instances.md)
   * [Missions & Événements](05-missions-evenements.md)
-  * [Familiers (plus tard)](readme/familiers-plus-tard.md)
+  * [Familiers](readme/familiers.md)
 * [IDENTITÉ & PROGRESSION](identite-and-progression/README.md)
   * [Naissance & Identité du Personnage](identite-and-progression/naissance-and-identite-du-personnage.md)
   * [Classes & Économie](identite-and-progression/classes-and-economie.md)
