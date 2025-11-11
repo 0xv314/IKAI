@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Page 1
 
 ## 🌌 IKAI – Live to Earn (L2E) : Un Univers Web3 Géolocalisé et Économique
