@@ -246,3 +246,5 @@ Asynchrone et tour-par-tour :
 * Intégration future d'AR pour interactions physiques.
 
 #### 8. Synthèse
+
+Dans Ikai, les villes réelles deviennent des royaumes Web3, où revenus passifs, taxation, défense et conquête créent une géopolitique vivante sur Solana. Ce système élève le L2E à un niveau inédit, fusionnant virtuel et réel pour une valeur durable.
