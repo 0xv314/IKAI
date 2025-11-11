@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Slime Fusion Avancée
 
 Cette mécanique n’est **pas disponible au lancement**.\
