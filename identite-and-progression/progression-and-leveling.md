@@ -10,4 +10,4 @@ Dans **IKAI**, la progression n’est pas basée sur un système de niveaux lin�
 > La progression est suffisamment importante pour disposer de son **onglet dédié.**\
 > Pour tout le détail sur rangs, maîtrises, éveil, double-classes, héritage et boucle de jeu :
 
-👉 **Voir l’onglet** [_**Progression**_](progression-and-leveling.md)
+👉 **Voir l’onglet** [_**Progression**_](./)
