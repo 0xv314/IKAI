@@ -1,6 +1,4 @@
-# Économie
-
-Structure Économique
+# Structure Économique
 
 L’économie d’IKAI repose sur un **modèle circulaire**, où chaque ressource est produite, transformée, puis consommée dans le jeu. Rien n’est créé ex nihilo. La valeur provient de l’**activité réelle des joueurs**.
 
