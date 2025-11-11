@@ -7,5 +7,5 @@
   * [Donjons & Instances](03-donjons-instances.md)
   * [Missions & Événements](05-missions-evenements.md)
 * [IDENTITÉ & PROGRESSION](identite-and-progression/README.md)
-  * [Classes & Sous-classes](identite-and-progression/classes-and-sous-classes.md)
+  * [Classes, Double Classe & Triple Classe](identite-and-progression/classes-double-classe-and-triple-classe.md)
 * [Naissance & Identité du Personnage](naissance-and-identite-du-personnage.md)
