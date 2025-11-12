@@ -1,6 +1,4 @@
-# Sécurité, Audits & Conformité
-
-### 🛡️ Sécurité, Audits & Conformité
+# 🛡️ Sécurité, Audits & Conformité
 
 L’écosystème **IKAI** repose sur des principes d’intégrité technique, de transparence totale et d’indépendance économique.\
 Chaque couche — du token à la marketplace — est pensée pour être **auto-vérifiable, auditable et résistante aux manipulations**.
