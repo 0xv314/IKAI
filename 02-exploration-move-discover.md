@@ -1,4 +1,4 @@
-# Exploration Move & Discover
+# 🌍 Exploration Move & Discover
 
 ### Système du Mana (Énergie Vivante)
 
