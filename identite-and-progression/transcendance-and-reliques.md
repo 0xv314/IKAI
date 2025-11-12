@@ -1,6 +1,4 @@
-# Transcendance & Reliques
-
-**Transcendance & Reliques**
+# 💠 Transcendance & Reliques
 
 La **Transcendance** est un système d’évolution avancé permettant d’augmenter la puissance d’un personnage ou de débloquer une seconde Classe. Elle repose sur l’utilisation de **Pierres de Transcendance**, ressources rares obtenues principalement via des événements, donjons majeurs, créatures uniques ou récompenses exceptionnelles.
 
