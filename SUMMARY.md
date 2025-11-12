@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Structure Économique](README.md)
-* [Monnaies & $IKAI / xIKAI$](01-structure-economique.md)
+* [💠 Monnaies : $IKAI & $xIKAI](01-structure-economique.md)
 * [Ressources & Raretés](03-ressources-and-rarities.md)
 * [⚙️ Production → Transformation → Utilisation](04-production-transformation.md)
 * [Anti‑Inflation & Régulation](05-anti-inflation.md)

@@ -1,6 +1,4 @@
-# Monnaies & $IKAI / xIKAI$
-
-### 💠 Monnaies : $IKAI & $xIKAI
+# 💠 Monnaies : $IKAI & $xIKAI
 
 L’économie d’**IKAI** repose sur un **modèle circulaire stable**, pensé pour durer. Aucune spéculation, aucune pression de revente, aucune dépendance à un afflux de nouveaux joueurs. Chaque élément du système monétaire a une fonction claire et mesurable.
 
