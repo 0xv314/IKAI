@@ -1,4 +1,4 @@
-# Résumé RWA (Territoires & Royaumes
+# 🏰 Résumé RWA (Territoires & Royaumes)
 
 Ikai ancre son univers dans le **monde réel** via des **NFT Territoriaux** qui représentent des **villes** réelles.\
 Ces NFT permettent aux joueurs de **posséder, défendre, taxer et gouverner** des zones du monde.
