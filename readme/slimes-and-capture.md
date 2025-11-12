@@ -1,4 +1,4 @@
-# Slimes & Capture
+# 🧪 Slimes & Capture
 
 **Contexte** : Les slimes sont les créatures les plus communes dans l’univers d’IKAI.\
 Ils apparaissent autour du joueur lors de ses déplacements, en temps réel.
