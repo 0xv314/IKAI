@@ -1,4 +1,4 @@
-# Progression & Leveling
+# 📈 Progression & Leveling
 
 Dans **IKAI**, la progression n’est pas basée sur un système de niveaux linéaires ou d’XP accumulée mécaniquement. Elle repose sur un **chemin d’évolution organique**, inspiré du réel :
 
