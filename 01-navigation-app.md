@@ -1,4 +1,4 @@
-# Navigation App
+# 🧭 Navigation App
 
 La carte est le cœur de l’expérience IKAI.\
 Elle relie le monde réel à l’univers du jeu, en temps réel, via géolocalisation mobile.
