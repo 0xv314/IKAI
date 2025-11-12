@@ -1,6 +1,4 @@
-# Système Territorial
-
-### 🗺️ Système Territorial
+# 🗺️ Système Territorial
 
 Le monde d’**IKAI** repose sur une cartographie **réelle et décentralisée**, où chaque **ville** correspond à une entité **on-chain**achetable, gouvernable et connectée à l’économie du jeu.\
 Chaque NFT de ville représente un **territoire physique**, une **source potentielle de revenus** et un **centre stratégique** dans la hiérarchie géo-économique du monde.
