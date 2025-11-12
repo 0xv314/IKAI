@@ -1,4 +1,4 @@
-# Mécanique Live-to-Earn
+# 🎮 Mécanique Live-to-Earn
 
 **Live-to-Earn (L2E)**
 
