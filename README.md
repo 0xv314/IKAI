@@ -1,4 +1,4 @@
-# Monde & RWA
+# 🌍 Monde & RWA
 
 IKAI relie le monde virtuel et le monde réel par un système territorial unique :\
 chaque portion du monde, chaque ville, chaque royaume, correspond à un **territoire réel géolocalisé**.\
