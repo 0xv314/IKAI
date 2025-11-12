@@ -2,7 +2,7 @@
 
 * [IKAI ?](README.md)
 * [📜 Whitepaper IKAI](<README (1).md>)
-* [Introduction](01-introduction.md)
+* [🌠 Introduction](01-introduction.md)
 * [Vision & Philosophie](02-vision-philosophie.md)
 * [Mécanique Live-to-Earn](03-structure-l2e.md)
 * [Résumé RWA (Territoires & Royaumes](04-rwa-overview.md)

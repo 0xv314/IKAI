@@ -1,6 +1,6 @@
-# Introduction
+# 🌠 Introduction
 
-kai est une application mobile Web3 construite sur Solana, qui fusionne l’exploration du monde réel avec des mécaniques RPG et une économie décentralisée. L’objectif est simple : **transformer les actions quotidiennes du joueur en valeur réelle**, grâce à un système Live-to-Earn (L2E) où se déplacer, accomplir des missions, interagir et progresser permet d’obtenir des ressources, des objets et des tokens.
+Ikai est une application mobile Web3 construite sur Solana, qui fusionne l’exploration du monde réel avec des mécaniques RPG et une économie décentralisée. L’objectif est simple : **transformer les actions quotidiennes du joueur en valeur réelle**, grâce à un système Live-to-Earn (L2E) où se déplacer, accomplir des missions, interagir et progresser permet d’obtenir des ressources, des objets et des tokens.
 
 Dans Ikai, le joueur évolue à travers un avatar unique, lié à son compte, qu’il peut faire progresser en fonction de son style de jeu. L’univers repose sur **12 classes interconnectées**, chacune jouant un rôle économique distinct. Cela crée un environnement **coopératif et circulaire**, où aucun joueur ne peut être autosuffisant, encourageant le commerce, l’échange et l’interaction sociale.
 
