@@ -1,4 +1,4 @@
-# Naissance & Identité du Personnage
+# 👶 Naissance & Identité du Personnage
 
 Dans Ikai, aucun joueur ne choisit sa classe à l’arrivée.\
 La création d’un personnage n’est pas une sélection d’options.\
