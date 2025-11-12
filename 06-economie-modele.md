@@ -1,4 +1,4 @@
-# Résumé Économie & Tokenomics
+# 💹 Résumé Économie & Tokenomics
 
 L’économie d’Ikai repose sur un modèle **simple, transparent et durable**, conçu pour éviter les dérives spéculatives observées dans la majorité des projets Move-to-Earn (M2E).
 
