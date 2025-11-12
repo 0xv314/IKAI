@@ -1,4 +1,4 @@
-# Gouvernance
+# ⚖️ Gouvernance
 
 La gouvernance d’Ikai repose sur une approche progressive et orientée vers la communauté. L’objectif n’est pas de déléguer instantanément toutes les décisions, mais de construire une **structure cohérente**, stable, puis ouverte au fil du temps, à mesure que l’écosystème se développe.
 
