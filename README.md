@@ -1,141 +1,162 @@
-# Progression & Leveling
+# 📈 Progression & Leveling
 
 #### Un système d’évolution inspiré de la vie réelle
 
-Dans **IKAI**, vous ne choisissez pas votre classe.\
-Vous **naissez** avec elle.
+Dans **IKAI**, il n’y a pas de création artificielle de classe.\
+Vous ne choisissez pas votre voie — **vous naissez avec elle**.
 
-Comme dans le monde réel, chaque joueur arrive dans l’univers avec :
+Chaque joueur arrive dans le monde avec :
 
 * Un **potentiel unique**
-* Une **classe de base**
+* Une **classe racine** propre
 * Des **traits initiaux aléatoires**
-* Une **prédisposition**, mais **pas un destin final**.
+* Une **prédisposition naturelle**, mais jamais un destin figé
 
-Ce principe fondamental crée :
+Ce principe fondateur établit une logique organique :
 
-* Une **identité forte** pour chaque personnage
-* Une **économie vivante**, car **personne ne peut tout faire**
-* Une **valeur réelle** aux alliances, familles, guildes et villes
-
-***
-
-### 🧬 Classe de Naissance (Classe Racine)
-
-À la création du personnage, le joueur reçoit **une des 6 classes-racines** :
-
-| Classe          | Rôle Système            | Fonction Principale                                                                  |
-| --------------- | ----------------------- | ------------------------------------------------------------------------------------ |
-| **Guerrier**    | Force / Combat          | Explorations, sécurisation, donjons, et accès aux ressources rares                   |
-| **Agriculteur** | Production Alimentaire  | Seul capable de produire les denrées nécessaires aux buffs et à l’économie de survie |
-| **Forgeron**    | Production d’Équipement | Seul capable de créer, réparer et fusionner armes/armures                            |
-| **Marchand**    | Circulation des Biens   | Seul capable d’acheter aux artisans locaux et revendre sur la marketplace ouverte    |
-| **Invocateur**  | Magie & Conjuration     | Classe magique liée aux arts mystiques, familiers, et rituels                        |
-| **Alchimiste**  | Potions & Catalyse      | Création de remèdes, poisons, élixirs, stabilisateurs d’énergie                      |
-
-> **La classe n’est ni un avantage, ni un handicap.**\
-> Elle est un **point de départ**.
+* Une **identité singulière** pour chaque personnage
+* Une **économie vivante** où personne ne peut tout faire
+* Une **valeur réelle aux alliances, familles et guildes**
 
 ***
 
-### 🌐 L’Arbre Circulaire d’Évolution
+#### 🧬 Classe de Naissance (Classe Racine)
 
-La progression dans IKAI ne suit **pas** une ligne droite.\
-Il n’y a **pas** de “niveau 1 → niveau 10 → niveau 20”.
+À la création du personnage, le joueur reçoit une **classe parmi six**.\
+Chacune est un pilier économique et structurel du monde IKAI.
 
-La progression est représentée sous forme d’**anneaux circulaires** :
+| Classe             | Rôle principal          | Description                                                          |
+| ------------------ | ----------------------- | -------------------------------------------------------------------- |
+| ⚔️ **Guerrier**    | Force & Combat          | Exploration, sécurisation, défense et accès aux ressources rares.    |
+| 🌾 **Agriculteur** | Production Alimentaire  | Production de denrées, composants vitaux aux buffs et à la survie.   |
+| 🔨 **Forgeron**    | Production d’Équipement | Création, réparation et fusion d’armes et armures.                   |
+| 💰 **Marchand**    | Circulation des Biens   | Achat local, revente globale, et arbitrage entre régions.            |
+| 🔮 **Invocateur**  | Magie & Conjuration     | Manipulation des entités spirituelles, familiers et rituels.         |
+| ⚗️ **Alchimiste**  | Potions & Catalyse      | Fabrication d’élixirs, poisons, remèdes et stabilisateurs d’énergie. |
 
-```
-[ Noyau de Classe ] → [ Compétences de Base ] → [ Techniques Avancées ] → [ Spécialisations ] → [ Maîtrise ]
-```
+> La classe n’est ni un avantage ni un handicap.\
+> Elle est votre **point d’origine** dans un écosystème interconnecté.
+
+***
+
+#### 🌐 L’Arbre Circulaire d’Évolution
+
+La progression dans IKAI ne suit pas une ligne droite, mais une **structure concentrique** — un arbre circulaire symbolisant la profondeur de maîtrise.
+
+Chaque joueur progresse à travers plusieurs **anneaux** :\
+`[ Noyau de Classe ] → [ Compétences de Base ] → [ Techniques Avancées ] → [ Spécialisations ] → [ Maîtrise ]`
 
 Chaque anneau représente :
 
-* Une **profondeur d’expérience**
-* Un **engagement dans la voie choisie**
+* Une **expérience vécue**
+* Un **engagement progressif**
 * Un **raffinement identitaire**
 
-Plus vous avancez vers l’extérieur du cercle, plus vos compétences deviennent :
+Plus le joueur s’éloigne du centre, plus ses compétences deviennent :
 
-* **Situées**
-* **Demandées**
-* **Identitaires**
-
-Et donc **plus votre rôle dans l’économie vivante devient irremplaçable**.
+* **Précises**,
+* **Recherchées**,
+* Et **indispensables** à l’économie vivante du monde.
 
 ***
 
-### 🌒 Progression Naturelle (Sans Choix de Menu)
+#### 🌒 Progression Naturelle (Sans Menu, Sans Choix)
 
-Vous ne **sélectionnez pas** une compétence dans une liste.\
-Vous **pratiquez** votre voie, et elle s’ouvre.
+Dans IKAI, on ne choisit pas une compétence dans une liste.\
+Le monde apprend de vous.
 
-```
-Vous forgez → vous débloquez la voie du métal rare
-Vous cultivez → vous débloquez la voie des graines nobles
-Vous explorez les abysses → vous débloquez la voie des âmes profondes
-```
+> Vous forgez → la **voie du métal rare** s’ouvre.
+>
+> Vous cultivez → la **voie des graines nobles** se révèle.
+>
+> Vous explorez les abysses → la **voie des âmes profondes** s’éveille.
 
-IKAI **se souvient** de ce que vous faites.
+Chaque action, chaque rituel, chaque création façonne votre croissance.\
+**IKAI se souvient de ce que vous faites.**
 
 ***
 
-### 🔱 Spécialisations & Sous-Classes (Plus tard)
+#### 💫 Système de Niveau
 
-Une fois votre **anneau de base complet**, vous pouvez :
+Le niveau n’a **aucune limite fixe**.\
+Le gain d’expérience reste **linéaire**,\
+mais la progression vers chaque niveau suit une **courbe martingale** :
 
-```
-- Soit approfondir votre classe de naissance
-- Soit tenter la Transcendance (3% de chance)
-```
+> Si le niveau 1 requiert 10 XP,\
+> le niveau 2 en demandera 20,\
+> le niveau 3 — 40,\
+> le niveau 4 — 80, et ainsi de suite.
+
+Ainsi, l’évolution reste fluide, mais exigeante à mesure que le joueur s’enracine dans sa voie.
+
+Chaque niveau atteint octroie :
+
+* Des **pièces de jeu**
+* Des **coffres de récompense**
+* Et parfois, l’accès à de **nouvelles mécaniques avancées**
+
+***
 
 #### ⭐ Transcendance
 
-La Transcendance permet d’acquérir une **seconde classe** (double classe).
+La **Transcendance** ne concerne pas le niveau — mais le **rang**.\
+Chaque joueur possède trois barres spirituelles symbolisant son **échelle de puissance**.
 
-| Taux | Résultat                                    | Effet                            |
-| ---- | ------------------------------------------- | -------------------------------- |
-| 97%  | **Amélioration** de votre classe principale | Renforcement légitime            |
-| 3%   | **Double Classe**                           | Nouvelle voie secondaire ouverte |
+Une **Transcendance réussie** remplit ces barres.\
+Trois Transcendances positives font évoluer un joueur de rang (ex. : E/F/G → D).
 
-> **Important :**\
-> La **Classe Secondaire n’atteindra jamais la puissance d’une Classe Principale**.\
-> Elle apporte **flexibilité**, pas domination.
+Les chances de Transcendance dépendent du nombre de **Pierres utilisées** :
 
-Et surtout :
+| Pierres utilisées | Chance de Transcendance | Chance de Double Classe |
+| ----------------- | ----------------------- | ----------------------- |
+| 1 Pierre          | 33 %                    | 3 %                     |
+| 2 Pierres         | 66 %                    | 6 %                     |
+| 3 Pierres         | 99.99 %                 | 9 %                     |
 
-⚠️ **Il est impossible de naître multi-classe.**\
-La double-classe est **un éveil**, pas un privilège.
-
-***
-
-### 👶 Famille & Héritage (Rappel du système)
-
-Deux joueurs mariés peuvent **concevoir un enfant** (PNJ), qui :
-
-* Naît directement **à 8-10 ans**
-* Possède sa propre **classe-racine**
-* Travaille **offline** et produit **des ressources pour les deux parents**
-* **Ne peut jamais être vendu, transféré, ni échangé**
-
-→ Cela crée **un investissement émotionnel durable**, pas une économie spéculative.\
-→ Et empêche totalement la **ferme à bébés**.
+La **seconde classe** (double classe) reste toujours moins puissante que la principale, offrant **souplesse et variété**, jamais domination.
 
 ***
 
-### 🎯 Pourquoi ce système est supérieur aux modèles classiques ?
+#### ⚒️ Bonus de Classe & Spécialisations
 
-| Ancien système          | Effet                                    | Ce que IKAI corrige                   |
-| ----------------------- | ---------------------------------------- | ------------------------------------- |
-| Choisir sa classe       | Tout le monde copie la “méta”            | Identités clonées → aucun sens social |
-| Modèles XP linéaires    | Plus tu joues, plus tu roules sur le jeu | Le jeu devient **ennuyeux**           |
-| Pets / Items vendables  | Surproduction → crash                    | Marché saturé = effondrement          |
-| Marketplace centralisée | Équipe contrôle l’économie               | Risque de drain, de collapsus         |
+Chaque classe possède des **bonus progressifs uniques** selon sa voie :\
+(ex. : bonus ATK, DEF, Mana, Chance, Vitesse, Drop, etc.)
 
-#### IKAI apporte :
+| Classe      | Bonus Naturel         | Spécialisation Potentielle |
+| ----------- | --------------------- | -------------------------- |
+| Guerrier    | +ATK / +DEF           | …                          |
+| Agriculteur | +Chance / +Drop       | …                          |
+| Forgeron    | +DEF / +Durabilité    | …                          |
+| Marchand    | +Chance / +Ressource  | …                          |
+| Invocateur  | +Mana / +Vitesse      | …                          |
+| Alchimiste  | +Régénération / +Buff | …                          |
 
-* Différenciation naturelle
-* Valeur identitaire
-* Progression méritée
-* Cycle économique fermé et durable
-* **Aucune pression pyramidale sur l’entrée de nouveaux joueurs**
+_(tableau à compléter selon équilibrage final)_
+
+***
+
+#### 🎁 Récompenses et Paliers
+
+Chaque montée de niveau apporte :
+
+* Des **pièces**,
+* Des **objets aléatoires** (selon la rareté du joueur),
+* Et, à certains paliers, des **déblocages fonctionnels** :
+  * Nouvelles zones d’exploration
+  * Forges ou rituels avancés
+  * Accès à des matériaux exclusifs
+
+***
+
+#### 🧩 Pourquoi ce modèle fonctionne
+
+| Modèles classiques                   | IKAI                                       |
+| ------------------------------------ | ------------------------------------------ |
+| Classe choisie → clone social        | Classe naturelle → identité unique         |
+| XP linéaire → ennui rapide           | Martingale d’XP → progression méritée      |
+| Pets & items revendables → inflation | Objets utilitaires → économie stable       |
+| Marché centralisé → contrôle opaque  | Écosystème distribué → équilibre organique |
+
+IKAI n’est pas un jeu de statistiques.\
+C’est un **système vivant** où chaque action laisse une trace durable.\
+Votre progression est votre signature.
