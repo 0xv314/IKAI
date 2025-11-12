@@ -1,4 +1,4 @@
-# Ressources & Raretés
+# 🌌 Ressources & Raretés
 
 L’économie d’IKAI est fondée sur des **ressources limitées**, dépendantes :
 
