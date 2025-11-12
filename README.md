@@ -1,4 +1,4 @@
-# Gameplay
+# 🎮 Gameplay
 
 Ikai est un RPG géolocalisé persistant où chaque joueur **naît avec une identité unique** : une classe, un potentiel, une rareté, et un chemin de progression qui lui est propre.\
 La progression n’est pas déterminée par le temps passé en jeu, mais par l’**activité réelle**, la **stratégie**, et l’**implication dans l’économie vivante** du monde.
