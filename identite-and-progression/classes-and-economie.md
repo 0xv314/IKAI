@@ -1,8 +1,4 @@
-# Classes & Économie
-
-🧱 Économie Circulaire des Classes (Version Mise à Jour & Finalisée)
-
-### Vue d'ensemble
+# ⚒️ Classes & Économie
 
 Dans IKAI, chaque classe **produit, transforme ou consomme**. Aucune classe n’est indépendante. Aucune ressource importante ne peut être obtenue **sans interaction humaine réelle**.
 
