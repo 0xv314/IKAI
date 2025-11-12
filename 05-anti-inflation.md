@@ -1,4 +1,4 @@
-# Anti‑Inflation & Régulation
+# 🧿 Anti-Inflation & Régulation
 
 ### Objectif
 
