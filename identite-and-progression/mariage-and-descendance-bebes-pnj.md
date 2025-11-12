@@ -1,4 +1,4 @@
-# Mariage & Descendance (Bébés PNJ)
+# 💍 Mariage & Descendance (Bébés PNJ)
 
 Le système de **Mariage & Descendance** permet à deux joueurs de former une union et de concevoir un **enfant PNJ**. Le mariage ne dépend **ni du sexe**, ni d’un rôle narratif : il s’agit d’un **pacte magique** entre deux joueurs. L’enfant est **lié au compte** de ses parents, **non transférable** et **non vendable**.
 
