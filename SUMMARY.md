@@ -3,7 +3,7 @@
 * [Gameplay](README.md)
   * [🧭 Navigation App](01-navigation-app.md)
   * [🌍 Exploration Move & Discover](02-exploration-move-discover.md)
-  * [Combats & Créatures](04-combats-et-creatures.md)
+  * [🐉 Combats & Créatures](04-combats-et-creatures.md)
   * [Slimes & Capture](readme/slimes-and-capture.md)
     * [Slime Fusion Avancée](readme/slimes-and-capture/slime-fusion-avancee.md)
   * [Donjons & Instances](03-donjons-instances.md)

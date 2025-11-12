@@ -1,4 +1,4 @@
-# Combats & Créatures
+# 🐉 Combats & Créatures
 
 Dans IKAI, la vie n’est pas décorative.\
 Chaque créature existe pour **nourrir l’économie**, le jeu, l’histoire, et les liens entre joueurs.
