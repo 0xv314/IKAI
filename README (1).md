@@ -2,7 +2,7 @@
 description: Version simplifié
 ---
 
-# ⚡Whitepaper IKAI
+# 📜 Whitepaper IKAI
 
 #### 1. Vision & Concept Live-to-Earn (L2E)
 

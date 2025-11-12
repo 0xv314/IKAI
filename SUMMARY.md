@@ -1,7 +1,7 @@
 # Table of contents
 
 * [IKAI ?](README.md)
-* [Whitepaper IKAI](<README (1).md>)
+* [📜 Whitepaper IKAI](<README (1).md>)
 * [Introduction](01-introduction.md)
 * [Vision & Philosophie](02-vision-philosophie.md)
 * [Mécanique Live-to-Earn](03-structure-l2e.md)
