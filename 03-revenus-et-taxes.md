@@ -1,140 +1,135 @@
 # 💰 Revenus & Taxes
 
-L’économie d’**IKAI** repose sur un principe simple :
+> toutes les transactions s’effectuent en **SOLANA (SOL)**, le token **$IKAI** servira ultérieurement de monnaie interne, et les flux sont redistribués **entre joueurs, villes, royaumes et la plateforme** via le **Bank Wallet**.
 
-> chaque transaction nourrit directement l’écosystème, sans ponction cachée ni inflation arbitraire.
-
-Les revenus circulent entre **joueurs**, **artisans**, **royaumes** et **plateforme** via un ensemble de règles fixes, transparentes et immuables on-chain.
+> Objectif : aucune perte de valeur, aucun flux caché, une économie circulaire auto-équilibrée.
 
 ***
 
-#### ⚙️ 1. Structure générale
+#### ⚙️ 1. Règles fondamentales
 
-| Type de transaction                                    | Frais totaux           | Répartition                                                         |
-| ------------------------------------------------------ | ---------------------- | ------------------------------------------------------------------- |
-| Échanges entre joueurs (P2P)                           | 6 %                    | 94 % au vendeur, 6 % vers le Bank Wallet                            |
-| Ventes du marchand (Marketplace principale)            | 6 %                    | 94 % au marchand, 3 % convertis en IKAI$, 3 % vers Bank             |
-| Ventes d’artisans (forge, agriculture, alchimie, etc.) | 6 %                    | 94 % au vendeur, 1.5 % redistribué à la ville, 4.5 % Bank           |
-| Ventes officielles (items du jeu, packs spéciaux)      | Variable (jusqu’à 6 %) | 100 % vers Bank Wallet                                              |
-| Courses & runs (activités à mana)                      | 0–30 % selon royaume   | Fixé par le Roi, reversé au Bank Wallet et/ou propriétaire de ville |
-
-> Les **6 % de frais globaux** ne sont jamais dépassés, toutes classes et régions confondues.
-
-***
-
-#### 🏛️ 2. Redistribution automatique
-
-Les fonds prélevés sont instantanément redistribués selon le schéma suivant :
-
-| Destination                        | Pourcentage    | Fonction                                                        |
-| ---------------------------------- | -------------- | --------------------------------------------------------------- |
-| **Bank Wallet**                    | 88 %           | Réserve principale : maintenance, audit, stabilité du protocole |
-| **Team**                           | 12 %           | Rémunération fixe et transparente                               |
-| **Propriétaires de ville stackée** | Inclus (1.5 %) | Revenus locaux proportionnels au volume d’échange               |
-| **Joueurs / artisans actifs**      | Variable       | Gains liés à la vente de ressources et produits                 |
+| Élément                          | Détail                                                                                                     |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Devise principale**            | SOL (token natif de Solana)                                                                                |
+| **Frais globaux**                | 6 % maximum sur toutes les transactions                                                                    |
+| **Taxe régionale fixe**          | 1,5 % redistribuée automatiquement au propriétaire de la ville (ou à la plateforme si la ville est neutre) |
+| **Taxe sur les runs (royaumes)** | Optionnelle : 0 à 30 %, uniquement sur les activités à mana                                                |
+| **Répartition du Bank Wallet**   | 88 % pour la plateforme / 12 % pour la team (fixe et publique)                                             |
+| **Stacking**                     | Seules les villes stackées génèrent des revenus passifs                                                    |
 
 ***
 
-#### 🧱 3. Exemple de flux économique
+#### 🧾 2. Répartition standard (6 %)
 
-**🔹 Exemple 1 – Joueur lambda**
-
-* Vend un objet pour **100 IKAI$** à un autre joueur
-* Frais globaux : **6 %**
-* Résultat :
-  * Le joueur reçoit **94 IKAI$**
-  * **6 IKAI$** partent dans le **Bank Wallet**
-  * **1.5 IKAI$** sont redistribués aux propriétaires de la ville concernée (proportionnellement)
-
-**🔹 Exemple 2 – Forgeron**
-
-* Vend une épée à 200 IKAI$
-* Frais : 6 % (soit 12 IKAI$)
-* Répartition :
-  * **188 IKAI$** → Forgeron
-  * **3 IKAI$** → Redistribution aux villes de la région
-  * **9 IKAI$** → Bank Wallet
-* Le forgeron bénéficie aussi d’un bonus passif lié à la forge régionale.
-
-**🔹 Exemple 3 – Agriculteur**
-
-* Vend 100 denrées pour 50 IKAI$
-* Frais : 6 % (3 IKAI$)
-* Répartition :
-  * **47 IKAI$** → Agriculteur
-  * **0.75 IKAI$** → Ville (1.5 % redistribué)
-  * **2.25 IKAI$** → Bank Wallet
-
-**🔹 Exemple 4 – Royaume actif (avec taxe)**
-
-* Le Roi applique une taxe de **20 % sur les runs**
-* Le joueur effectue une activité de 100 IKAI$
-* Résultat :
-  * **80 IKAI$** → Joueur (récompense nette)
-  * **20 IKAI$** → Trésor du Royaume
-  * Le Roi peut répartir cette somme librement entre défense, récompenses ou fonds royaux.
-
-**🔹 Exemple 5 – Team / Plateforme**
-
-* Tous les revenus consolidés du Bank Wallet (transactions, packs, courses, etc.) sont redistribués :
-  * **88 %** → Système (maintenance, serveurs, audits, sécurité, équilibrage)
-  * **12 %** → Team fondatrice (rémunération fixe et publique)
+| Source                                          | Détail                                                 | Répartition                                                                                  |
+| ----------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| **Transactions entre joueurs (P2P)**            | Vente directe d’un joueur à un autre                   | 94 % au vendeur • 1,5 % à la ville • 4,5 % Bank Wallet                                       |
+| **Forge**                                       | Création, amélioration ou réparation d’armes / armures | 94 % au forgeron • 1,5 % à la ville • 4,5 % Bank Wallet                                      |
+| **Marchand**                                    | Vente d’objets entre régions / marketplace principale  | 94 % au marchand • 3 % convertis automatiquement en $IKAI (bonus marchand) • 3 % Bank Wallet |
+| **Ventes officielles (packs, objets spéciaux)** | Vente directe par la plateforme                        | 100 % Bank Wallet                                                                            |
+| **Courses et runs (royaume actif)**             | Activités à mana taxées par le roi                     | 0–30 % selon la taxe du royaume, redistribués au trésor du royaume                           |
 
 ***
 
-#### 🪙 4. Taxes régionales et royales
+#### 📊 3. Exemples concrets de flux (en SOL)
 
-| Type                        | Taux                      | Description                                               |
-| --------------------------- | ------------------------- | --------------------------------------------------------- |
-| **Ville**                   | 1.5 %                     | Reversé automatiquement au propriétaire stacké            |
-| **Royaume**                 | 0–30 %                    | Taxe optionnelle sur les activités à mana (courses, runs) |
-| **Plateforme (IKAI)**       | 6 % max                   | Frais globaux sur toute transaction                       |
-| **Union / Pays (Seigneur)** | Ajustable selon alliances | Intervient uniquement dans les échanges inter-royaumes    |
+**🟢 Exemple 1 – Transaction P2P (entre deux joueurs)**
 
-> Si un **Roi** veut activer la taxe des runs, il doit **miser** une quantité de **SOL** équivalente à la taxe totale des villes composant son royaume.\
-> Sans mise, la taxe reste bloquée à **0 %**.
+* Vente d’un objet à **100 SOL**
+* Frais totaux : **6 SOL**
 
-***
+| Bénéficiaire                | Montant     | Détail                                |
+| --------------------------- | ----------- | ------------------------------------- |
+| Vendeur                     | 94 SOL      | Revenu net du joueur                  |
+| Ville (propriétaire stacké) | 1.5 SOL     | Taxe régionale automatique            |
+| Bank Wallet                 | 4.5 SOL     | Réserve de stabilité + redistribution |
+| **Total**                   | **100 SOL** | ✅ Répartition complète et on-chain    |
 
-#### 🏦 5. Le rôle du Bank Wallet
-
-Le **Bank Wallet** est le cœur financier d’IKAI.\
-Il assure la **stabilité** du système et la **transparence des flux**.
-
-Ses fonctions :
-
-* Gestion des revenus globaux (frais, ventes, événements)
-* Redistribution automatique vers les détenteurs éligibles
-* Stockage des fonds d’audit et de maintenance
-* Équilibrage algorithmique du token $IKAI pour maintenir sa stabilité
-
-> Aucun fonds du Bank Wallet ne peut être utilisé sans validation on-chain et transparence publique via les audits externes.
+> Si la ville n’a pas de propriétaire actif, les **1.5 SOL** sont redirigés vers la **plateforme**.
 
 ***
 
-#### 📊 6. Résumé visuel des flux
+**⚒️ Exemple 2 – Transaction à la Forge**
 
-**Entrées :**
+* Création ou amélioration d’une arme à **100 SOL**
+* Frais totaux : **6 SOL**
 
-* Transactions P2P (6 %)
-* Marketplace marchande
-* Consommables, potions, packs spéciaux
-* Taxes des royaumes
+| Bénéficiaire | Montant | Détail                                       |
+| ------------ | ------- | -------------------------------------------- |
+| Forgeron     | 94 SOL  | Revenu net pour l’artisan                    |
+| Ville        | 1.5 SOL | Redistribution automatique (activité locale) |
+| Bank Wallet  | 4.5 SOL | Réserve technique du système                 |
 
-**Sorties :**
-
-* 1.5 % vers les propriétaires de villes
-* 12 % vers la team
-* 88 % maintenus pour stabilité et redistribution
+> Les **forgerons** touchent également des **revenus passifs** en fonction du volume global de forge de leur région.
 
 ***
 
-#### ⚖️ 7. Philosophie économique
+**💼 Exemple 3 – Transaction auprès d’un Marchand**
 
-IKAI ne cherche pas à générer du profit par inflation.\
-Chaque taxe, chaque flux et chaque redistribution ont une **fonction d’équilibre**, pas de ponction.
+* Vente d’un objet pour **100 SOL** sur la marketplace principale
+* Frais totaux : **6 SOL**
 
-> L’économie du jeu ne dépend pas du nombre d’entrants,\
-> mais du volume d’activités **réelles, mesurables et vérifiables**.
+| Bénéficiaire                | Montant | Détail                                           |
+| --------------------------- | ------- | ------------------------------------------------ |
+| Marchand                    | 94 SOL  | Revenu net marchand                              |
+| Conversion $IKAI (auto)\*\* | 3 SOL   | Conversion interne vers $IKAI (bonus d’activité) |
+| Bank Wallet                 | 3 SOL   | Frais techniques & redistribution                |
+
+> Les **marchands** disposent de leur propre marketplace régionale : un marchand du Limousin ne voit pas les offres de Bretagne, sauf s’il se déplace sur place — favorisant l’économie locale.
 
 ***
+
+**👑 Exemple 4 – Royaume actif (taxe sur les runs)**
+
+* Un royaume applique une taxe de **20 %** sur les courses à mana.
+* Un joueur réalise une activité à **100 SOL** → **20 SOL** sont retenus.
+
+| Bénéficiaire        | Montant   | Détail                            |
+| ------------------- | --------- | --------------------------------- |
+| Joueur              | 80 SOL    | Récompense nette                  |
+| Trésor royal        | 20 SOL    | Stockés dans le coffre du royaume |
+| Ville / Bank Wallet | inchangés | Non impactés par la taxe de run   |
+
+> Pour activer une taxe, le Roi doit **miser une somme de SOL équivalente** à la taxe globale des villes formant son royaume.
+
+***
+
+**🏦 Exemple 5 – Redistribution du Bank Wallet**
+
+Chaque mois, les fonds du **Bank Wallet** sont répartis de manière transparente :
+
+| Destination                   | Pourcentage | Rôle                                                  |
+| ----------------------------- | ----------- | ----------------------------------------------------- |
+| **Plateforme IKAI**           | 88 %        | Maintenance, audits, serveurs, stabilisation des flux |
+| **Team fondatrice**           | 12 %        | Rémunération unique et vérifiée                       |
+| **Royaumes & villes neutres** | Inclus      | Redistribués via leur volume d’activité               |
+| **Audit & transparence**      | —           | Publication on-chain des flux mensuels                |
+
+> Le Bank Wallet agit comme une **banque centrale décentralisée**, équilibrant les revenus entre tous les acteurs sans créer d’inflation.
+
+***
+
+#### ⚖️ 4. Synthèse du modèle économique
+
+| Acteur                                     | Source de revenu                     | Dépendance                        |
+| ------------------------------------------ | ------------------------------------ | --------------------------------- |
+| **Joueur standard**                        | Vente de loot, missions, runs        | Activité et exploration           |
+| **Artisan (forge, agriculture, alchimie)** | Vente directe P2P + bonus de ville   | Volume de production              |
+| **Marchand**                               | Commerce interrégional + bonus $IKAI | Mobilité géographique             |
+| **Propriétaire de ville**                  | 1.5 % des ventes locales             | Activité régionale                |
+| **Roi / Royaume**                          | Taxe de 0–30 % sur runs              | Engagement en SOL                 |
+| **Plateforme**                             | 88 % du Bank Wallet                  | Maintenance du système            |
+| **Team**                                   | 12 % du Bank Wallet                  | Rémunération fixe et transparente |
+
+***
+
+#### 💠 En résumé
+
+* Toutes les **transactions s’effectuent en SOL**, sur une base de **6 % maximum**.
+* Les **revenus circulent verticalement** entre joueurs, artisans, villes et royaumes.
+* Le **Bank Wallet** agit comme une **colonne vertébrale financière**, garantissant la stabilité du système.
+* Aucune création de valeur artificielle, aucun gain caché.
+* Chaque flux a une utilité réelle, mesurable, vérifiable.
+
+***
+
