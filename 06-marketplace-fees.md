@@ -1,6 +1,4 @@
-# Marketplace, Frais & Burn
-
-### 🏪 Marketplace, Frais & Bank Wallet
+# 🏪 Marketplace, Frais & Bank Wallet
 
 L’économie d’**IKAI** repose sur deux marketplaces distinctes, une régulation automatique on-chain, et un système de frais unique à double effet : 🌀 **rémunération interne** + 💠 **stabilisation via le Bank Wallet**. Aucun burn, aucune perte : tout reste dans l’écosystème.
 
