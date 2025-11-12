@@ -1,6 +1,4 @@
-# Production → Transformation → Utilisation
-
-### ⚙️ Production → Transformation → Utilisation
+# ⚙️ Production → Transformation → Utilisation
 
 L’économie d’**IKAI** repose sur une **chaîne circulaire interconnectée**, où chaque ressource possède une fonction, une utilité et une finalité économique. Aucune ressource n’est créée sans destination. Aucun métier n’est isolé. C’est ce système d’interdépendance totale qui garantit la **stabilité et la durabilité** du modèle.
 
