@@ -1,4 +1,4 @@
-# Vision & Philosophie
+# 💭 Vision & Philosophie
 
 #### Live-to-Earn : Une économie vivante, durable et centrée sur le jeu
 
