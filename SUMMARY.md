@@ -7,7 +7,7 @@
   * [🧪 Slimes & Capture](readme/slimes-and-capture.md)
     * [Slime Fusion Avancée](readme/slimes-and-capture/slime-fusion-avancee.md)
   * [🏰 Donjons & Instances](03-donjons-instances.md)
-  * [Missions & Événements](05-missions-evenements.md)
+  * [🎯 Missions & Événements](05-missions-evenements.md)
   * [Familiers](readme/familiers.md)
 * [IDENTITÉ & PROGRESSION](identite-and-progression/README.md)
   * [Naissance & Identité du Personnage](identite-and-progression/naissance-and-identite-du-personnage.md)

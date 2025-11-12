@@ -1,4 +1,4 @@
-# Missions & Événements
+# 🎯 Missions & Événements
 
 Les Missions dans IKAI ne servent pas à “donner du contenu” ou à occuper le joueur.\
 Elles ont une fonction précise : **faire vivre l’économie circulaire** du monde.
