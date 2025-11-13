@@ -31,7 +31,7 @@ Posséder une ville = **détenir un actif productif.**
 
 #### **Création d’un Royaume**
 
-À partir d’une ville détenue, un joueur peut **activer un Royaume** en stakant du **SOL** (montant variable selon importance de la ville).
+À partir de 3 villes détenue, un joueur peut **activer un Royaume** en stakant du **SOL** (montant variable selon importance de la ville).
 
 **Avantages :**
 
