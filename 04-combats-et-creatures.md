@@ -12,10 +12,6 @@ D’autres créatures pourront apparaître plus tard (partenariats, extensions, 
 
 ***
 
-Voici une version **améliorée, plus claire et plus immersive**, qui intègre parfaitement ton concept de **fusion automatique** des Slimes capturés plusieurs fois :
-
-***
-
 #### 🟢 1. Les Slimes
 
 Présents partout. Toujours vivants. Toujours différents.
@@ -34,7 +30,7 @@ Chaque Slime peut être :
 * **Capturé**,
 * **Fusionné** au sein de votre propre élevage (un véritable _SlimeDex vivant_).
 
-Il existe également des **variantes régionales**, inspirées des cultures du monde réel — offrant une diversité quasiment infinie.
+Il existe également des **variantes régionales**, inspirées des cultures du monde réel offrant une diversité quasiment infinie.
 
 ***
 
