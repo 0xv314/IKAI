@@ -12,25 +12,45 @@ D’autres créatures pourront apparaître plus tard (partenariats, extensions, 
 
 ***
 
-### 🟢 1. Les Slimes
+Voici une version **améliorée, plus claire et plus immersive**, qui intègre parfaitement ton concept de **fusion automatique** des Slimes capturés plusieurs fois :
 
-**Présents partout. Toujours vivants. Toujours différents.**
+***
 
-Les Slimes apparaissent autour du joueur en fonction de :
+#### 🟢 1. Les Slimes
 
-* sa région
-* son pays
-* son environnement réel (montagne, mer, ville, forêt…)
+Présents partout. Toujours vivants. Toujours différents.
 
-Un Slime n’est **pas** un “monstre” :
+Les Slimes apparaissent autour du joueur selon :
 
-* C’est une **rencontre**.
-* Il peut être **combattu**.
-* Il peut être **capturé**.
-* Il peut être **fusionné** pour créer son propre **élevage de Slimes** (style Pokédex vivant).
-* Il possède des **variantes régionales** (culture du monde réelle → richesse inépuisable).
+* sa **région**,
+* son **pays**,
+* son **environnement réel** (montagne, mer, ville, forêt…).
 
-#### 🎮 Combat Slime : Simple, Rapide, Lisible
+Un Slime n’est pas un “monstre”. ➡️ **C’est une rencontre.**
+
+Chaque Slime peut être :
+
+* **Combattu**,
+* **Capturé**,
+* **Fusionné** au sein de votre propre élevage (un véritable _SlimeDex vivant_).
+
+Il existe également des **variantes régionales**, inspirées des cultures du monde réel — offrant une diversité quasiment infinie.
+
+***
+
+#### 🧬 **Système de Fusion Automatique**
+
+Lorsque vous capturez **plusieurs fois le même type de Slime**, celui-ci est automatiquement fusionné avec son équivalent déjà présent dans votre inventaire.
+
+**Exemple :** Slime X + Slime X → **Slime X (niveau +1)**
+
+✔️ Pas de doublons inutiles ✔️ Votre Slime devient plus fort, plus rare, plus unique ✔️ Le système anticipe leurs futures utilités
+
+Même si aujourd’hui les Slimes n’ont **pas encore** de rôle majeur… ➡️ **Nous ne sommes pas demain.** Le jeu est pensé pour l’évolution : compétences, artisanat, quêtes, compagnons, usages cachés — chaque Slime pourrait un jour devenir une pièce essentielle de votre aventure.
+
+
+
+🎮 Combat Slime : Simple, Rapide, Lisible
 
 Le combat se résout immédiatement :
 
