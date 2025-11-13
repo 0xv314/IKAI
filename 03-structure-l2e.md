@@ -50,7 +50,7 @@ Cette progression est **visible**, **valorisante**, **et directement liée aux p
 
 L’univers d’Ikai repose sur **12 classes principales**, chacune jouant un rôle économique spécifique. Aucune classe ne peut fonctionner seule : la progression est construite pour **encourager l’échange plutôt que l’autosuffisance**.
 
-Exemples (déjà définis dans ton concept) :
+Exemples  :
 
 * **Invocateur** : crée des familiers NFT revendables
 * **Agriculteur** : récolte des ressources IRL nécessaires au crafting
